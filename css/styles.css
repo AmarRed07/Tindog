@@ -1,0 +1,45 @@
+body {
+    
+}
+nav {
+    margin-bottom: 20px !important;
+    box-shadow: 0 3px 5px #fff;
+}
+#title {
+    background-color: #ff4c68;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.title-h1 {
+    font-family: 'Montserrat-black', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    text-shadow: 0px 1px 3px orange;
+    
+}
+
+.container-fluid {
+    /* padding: 3% 15%; */
+}
+
+.btn {
+    border-radius: 10px;
+    box-shadow: 0px .5px 4px #fff;
+    letter-spacing: 1px;
+}
+
+.navbar-logo {
+    height: 50px;
+    width: 50px;
+    border-radius: 24px;
+    margin-left: 10px;
+    box-shadow: 0px .5px 3px 1px #fff;
+}
+
+a.nav-link {
+    color: orange !important;
+    padding-left: 40px !important;
+    text-shadow: 0px 1px 3px #ff4c68;
+    font-size: 16px;
+}
+
